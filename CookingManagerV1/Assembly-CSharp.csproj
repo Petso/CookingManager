@@ -48,9 +48,6 @@
      <Compile Include="Assets\Scripts\DMXController.cs" />
      <Compile Include="Assets\Scripts\Game Scripts\mouseDrag.cs" />
      <Compile Include="Assets\Scripts\LightingSampleScript.cs" />
- <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/peter/Documents/UnityProjects/CookingManagerV1/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -58,12 +55,14 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Phidget21.NET">
- <HintPath>C:/Users/peter/Documents/UnityProjects/CookingManagerV1/Assets/Plugins/Phidget21.NET.dll</HintPath>
+ <HintPath>C:/Users/James/Documents/2016-Summer/FinalProject/CookingManager/CookingManagerV1/Assets/Plugins/Phidget21.NET.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{A5FDE84B-FB62-B1B7-CABB-89036709305B}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{F40D4E02-5862-488C-9C4B-1C79F0298F9C}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

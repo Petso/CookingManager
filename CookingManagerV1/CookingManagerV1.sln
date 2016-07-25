@@ -5,6 +5,10 @@ Project("{B41DAD3B-E813-5C03-312F-FDC7DA999E9D}") = "CookingManagerV1", "Assembl
 EndProject
 Project("{B41DAD3B-E813-5C03-312F-FDC7DA999E9D}") = "CookingManagerV1", "Assembly-CSharp.csproj", "{01DE20BF-9D96-65C0-3927-8C165CBB990D}"
 EndProject
+Project("{B41DAD3B-E813-5C03-312F-FDC7DA999E9D}") = "CookingManagerV1", "Assembly-UnityScript-firstpass.unityproj", "{F40D4E02-5862-488C-9C4B-1C79F0298F9C}"
+EndProject
+Project("{B41DAD3B-E813-5C03-312F-FDC7DA999E9D}") = "CookingManagerV1", "Assembly-UnityScript.unityproj", "{A3CF4325-5217-F18F-6CAD-C9DD3F6CFEC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{01DE20BF-9D96-65C0-3927-8C165CBB990D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01DE20BF-9D96-65C0-3927-8C165CBB990D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01DE20BF-9D96-65C0-3927-8C165CBB990D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40D4E02-5862-488C-9C4B-1C79F0298F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40D4E02-5862-488C-9C4B-1C79F0298F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40D4E02-5862-488C-9C4B-1C79F0298F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40D4E02-5862-488C-9C4B-1C79F0298F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CF4325-5217-F18F-6CAD-C9DD3F6CFEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CF4325-5217-F18F-6CAD-C9DD3F6CFEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CF4325-5217-F18F-6CAD-C9DD3F6CFEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CF4325-5217-F18F-6CAD-C9DD3F6CFEC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

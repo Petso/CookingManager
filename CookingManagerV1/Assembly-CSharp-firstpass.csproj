@@ -58,7 +58,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Phidget21.NET">
- <HintPath>C:/Users/peter/Documents/UnityProjects/CookingManagerV1/Assets/Plugins/Phidget21.NET.dll</HintPath>
+ <HintPath>C:/Users/James/Documents/2016-Summer/FinalProject/CookingManager/CookingManagerV1/Assets/Plugins/Phidget21.NET.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

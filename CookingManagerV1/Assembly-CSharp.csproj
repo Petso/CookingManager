@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\DMXController.cs" />
+     <Compile Include="Assets\Scripts\Game Scripts\BurgerStacking.cs" />
      <Compile Include="Assets\Scripts\Game Scripts\mouseDrag.cs" />
      <Compile Include="Assets\Scripts\LightingSampleScript.cs" />
  <Reference Include="UnityEngine.UI">

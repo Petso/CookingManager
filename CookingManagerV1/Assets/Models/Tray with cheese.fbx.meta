@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 3491c85c33ac5ab4ea8b32a70dfd109a
+timeCreated: 1469477579
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cheese
+    100002: group
+    100004: group1
+    100006: group10
+    100008: group11
+    100010: group11_pasted__group3_pasted__pasted__Cheese
+    100012: group12
+    100014: group2
+    100016: group3
+    100018: group4
+    100020: group5
+    100022: group6
+    100024: group7
+    100026: group8
+    100028: group9
+    100030: pasted__Cheese
+    100032: pasted__Cheese 1
+    100034: pasted__Cheese 2
+    100036: pasted__Cheese 3
+    100038: pasted__Cheese 4
+    100040: pasted__Cheese 5
+    100042: pasted__Cheese 6
+    100044: pasted__Cheese 7
+    100046: pasted__Cheese 8
+    100048: pasted__group
+    100050: pasted__group 1
+    100052: pasted__group1
+    100054: pasted__group1 1
+    100056: pasted__group2
+    100058: pasted__group2 1
+    100060: pasted__group3
+    100062: pasted__group3 1
+    100064: pasted__group3 2
+    100066: pasted__group4
+    100068: pasted__group4 1
+    100070: pasted__group4 2
+    100072: pasted__group5
+    100074: pasted__group5 1
+    100076: pasted__group5 2
+    100078: pasted__group6
+    100080: pasted__group6 1
+    100082: pasted__group6 2
+    100084: pasted__group7
+    100086: pasted__group7 1
+    100088: pasted__group7 2
+    100090: pasted__group7 3
+    100092: pasted__group7 4
+    100094: pasted__group8
+    100096: pasted__pasted__Cheese
+    100098: pasted__pasted__Cheese 1
+    100100: pasted__pasted__Cheese 10
+    100102: pasted__pasted__Cheese 11
+    100104: pasted__pasted__Cheese 12
+    100106: pasted__pasted__Cheese 2
+    100108: pasted__pasted__Cheese 3
+    100110: pasted__pasted__Cheese 4
+    100112: pasted__pasted__Cheese 5
+    100114: pasted__pasted__Cheese 6
+    100116: pasted__pasted__Cheese 7
+    100118: pasted__pasted__Cheese 8
+    100120: pasted__pasted__Cheese 9
+    100122: pasted__pasted__group3
+    100124: pasted__pasted__group4
+    100126: pasted__pasted__group5
+    100128: pasted__pasted__group6
+    100130: pasted__pasted__group7
+    100132: pasted__pasted__pasted__Cheese
+    100134: pasted__pasted__pasted__Cheese 1
+    100136: pasted__pasted__pasted__Cheese 2
+    100138: pasted__pasted__pasted__Cheese 3
+    100140: pasted__pasted__pasted__Cheese 4
+    100142: transform1
+    100144: transform10
+    100146: transform2
+    100148: transform3
+    100150: transform4
+    100152: transform5
+    100154: transform6
+    100156: transform7
+    100158: transform8
+    100160: transform9
+    100162: //RootNode
+    100164: trays_for_toppings:pCube1
+    400000: Cheese
+    400002: group
+    400004: group1
+    400006: group10
+    400008: group11
+    400010: group11_pasted__group3_pasted__pasted__Cheese
+    400012: group12
+    400014: group2
+    400016: group3
+    400018: group4
+    400020: group5
+    400022: group6
+    400024: group7
+    400026: group8
+    400028: group9
+    400030: pasted__Cheese
+    400032: pasted__Cheese 1
+    400034: pasted__Cheese 2
+    400036: pasted__Cheese 3
+    400038: pasted__Cheese 4
+    400040: pasted__Cheese 5
+    400042: pasted__Cheese 6
+    400044: pasted__Cheese 7
+    400046: pasted__Cheese 8
+    400048: pasted__group
+    400050: pasted__group 1
+    400052: pasted__group1
+    400054: pasted__group1 1
+    400056: pasted__group2
+    400058: pasted__group2 1
+    400060: pasted__group3
+    400062: pasted__group3 1
+    400064: pasted__group3 2
+    400066: pasted__group4
+    400068: pasted__group4 1
+    400070: pasted__group4 2
+    400072: pasted__group5
+    400074: pasted__group5 1
+    400076: pasted__group5 2
+    400078: pasted__group6
+    400080: pasted__group6 1
+    400082: pasted__group6 2
+    400084: pasted__group7
+    400086: pasted__group7 1
+    400088: pasted__group7 2
+    400090: pasted__group7 3
+    400092: pasted__group7 4
+    400094: pasted__group8
+    400096: pasted__pasted__Cheese
+    400098: pasted__pasted__Cheese 1
+    400100: pasted__pasted__Cheese 10
+    400102: pasted__pasted__Cheese 11
+    400104: pasted__pasted__Cheese 12
+    400106: pasted__pasted__Cheese 2
+    400108: pasted__pasted__Cheese 3
+    400110: pasted__pasted__Cheese 4
+    400112: pasted__pasted__Cheese 5
+    400114: pasted__pasted__Cheese 6
+    400116: pasted__pasted__Cheese 7
+    400118: pasted__pasted__Cheese 8
+    400120: pasted__pasted__Cheese 9
+    400122: pasted__pasted__group3
+    400124: pasted__pasted__group4
+    400126: pasted__pasted__group5
+    400128: pasted__pasted__group6
+    400130: pasted__pasted__group7
+    400132: pasted__pasted__pasted__Cheese
+    400134: pasted__pasted__pasted__Cheese 1
+    400136: pasted__pasted__pasted__Cheese 2
+    400138: pasted__pasted__pasted__Cheese 3
+    400140: pasted__pasted__pasted__Cheese 4
+    400142: transform1
+    400144: transform10
+    400146: transform2
+    400148: transform3
+    400150: transform4
+    400152: transform5
+    400154: transform6
+    400156: transform7
+    400158: transform8
+    400160: transform9
+    400162: //RootNode
+    400164: trays_for_toppings:pCube1
+    2300000: Cheese
+    2300002: group11_pasted__group3_pasted__pasted__Cheese
+    2300004: pasted__Cheese
+    2300006: pasted__Cheese 1
+    2300008: pasted__Cheese 2
+    2300010: pasted__Cheese 3
+    2300012: pasted__Cheese 4
+    2300014: pasted__Cheese 5
+    2300016: pasted__Cheese 6
+    2300018: pasted__Cheese 7
+    2300020: pasted__Cheese 8
+    2300022: pasted__pasted__Cheese 10
+    2300024: pasted__pasted__Cheese 11
+    2300026: pasted__pasted__Cheese 12
+    2300028: pasted__pasted__Cheese 5
+    2300030: pasted__pasted__Cheese 6
+    2300032: pasted__pasted__Cheese 7
+    2300034: pasted__pasted__Cheese 8
+    2300036: pasted__pasted__Cheese 9
+    2300038: trays_for_toppings:pCube1
+    3300000: Cheese
+    3300002: group11_pasted__group3_pasted__pasted__Cheese
+    3300004: pasted__Cheese
+    3300006: pasted__Cheese 1
+    3300008: pasted__Cheese 2
+    3300010: pasted__Cheese 3
+    3300012: pasted__Cheese 4
+    3300014: pasted__Cheese 5
+    3300016: pasted__Cheese 6
+    3300018: pasted__Cheese 7
+    3300020: pasted__Cheese 8
+    3300022: pasted__pasted__Cheese 10
+    3300024: pasted__pasted__Cheese 11
+    3300026: pasted__pasted__Cheese 12
+    3300028: pasted__pasted__Cheese 5
+    3300030: pasted__pasted__Cheese 6
+    3300032: pasted__pasted__Cheese 7
+    3300034: pasted__pasted__Cheese 8
+    3300036: pasted__pasted__Cheese 9
+    3300038: trays_for_toppings:pCube1
+    4300000: trays_for_toppings:pCube1
+    4300002: Cheese
+    4300004: pasted__Cheese
+    4300006: pasted__Cheese
+    4300008: pasted__Cheese
+    4300010: pasted__Cheese
+    4300012: pasted__Cheese
+    4300014: pasted__Cheese
+    4300016: pasted__Cheese
+    4300018: pasted__Cheese
+    4300020: pasted__Cheese
+    4300022: pasted__pasted__Cheese
+    4300024: pasted__pasted__Cheese
+    4300026: pasted__pasted__Cheese
+    4300028: pasted__pasted__Cheese
+    4300030: pasted__pasted__Cheese
+    4300032: pasted__pasted__Cheese
+    4300034: pasted__pasted__Cheese
+    4300036: pasted__pasted__Cheese
+    4300038: group11_pasted__group3_pasted__pasted__Cheese
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
